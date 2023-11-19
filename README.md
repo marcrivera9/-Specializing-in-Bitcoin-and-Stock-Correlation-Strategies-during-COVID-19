@@ -147,13 +147,13 @@
 
 ![btc_lineplot](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/987dca9c-28f1-4d8c-a5e4-4d82468d8a39)
 
-### COIN Lineplot
+### COIN lineplot
 
 ![coin line plot](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/f35d5023-1077-4344-9914-7fa2fc6a413a)
 
 ![coin_lineplot](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/d679076a-e321-46b8-a447-fd7d03a4f3ff)
 
-### CRWD lineplot\
+### CRWD lineplot
 
 ![crwd line plot](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/9b576b93-8469-4242-aebc-a95482cdd8b5)
 
