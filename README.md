@@ -191,28 +191,59 @@
 ### Insights from Heatmap: 
 
 #### Diversification Potential:
-The negative correlations observed between Pfizer (PFE) and both Coinbase (COIN) and Bitcoin (BTC) suggest a potential diversification opportunity. When PFE prices decline, there tends to be an upward movement in COIN and BTC prices, providing a potential hedge against declines in traditional pharmaceutical stocks.
+#### The negative correlations observed between Pfizer (PFE) and both Coinbase (COIN) and Bitcoin (BTC) suggest a potential diversification opportunity. When PFE prices decline, there tends to be an upward movement in COIN and BTC prices, providing a potential hedge against declines in traditional pharmaceutical stocks.
 
 #### Hedging Strategy:
-Given the robust negative correlations with PFE, incorporating COIN and BTC into your portfolio could act as a strategic hedge. This means that during periods when pharmaceutical stocks face challenges, the positive movement in cryptocurrency-related assets may offset potential losses.
+#### Given the robust negative correlations with PFE, incorporating COIN and BTC into your portfolio could act as a strategic hedge. This means that during periods when pharmaceutical stocks face challenges, the positive movement in cryptocurrency-related assets may offset potential losses.
 
 #### Tech and Crypto Synchronization:
-The positive correlations between COIN, CrowdStrike (CRWD), and BTC imply a certain synchronization in their movements. As COIN prices rise, there is a tendency for both CRWD and BTC prices to increase. This insight can guide your portfolio strategy, emphasizing the potential benefits of aligning investments in tech and crypto-related assets.
+#### The positive correlations between COIN, CrowdStrike (CRWD), and BTC imply a certain synchronization in their movements. As COIN prices rise, there is a tendency for both CRWD and BTC prices to increase. This insight can guide your portfolio strategy, emphasizing the potential benefits of aligning investments in tech and crypto-related assets.
 
 #### Risk Management:
-Understanding the moderate positive correlation between CRWD and BTC provides insights into the synchronized movement of these assets. It's important to consider this correlation when managing risk in your portfolio. If there are shifts in the tech sector or cryptocurrency markets, a balanced approach to CRWD and BTC exposure could contribute to effective risk management.
+#### Understanding the moderate positive correlation between CRWD and BTC provides insights into the synchronized movement of these assets. It's important to consider this correlation when managing risk in your portfolio. If there are shifts in the tech sector or cryptocurrency markets, a balanced approach to CRWD and BTC exposure could contribute to effective risk management.
 
 #### Dynamic Asset Allocation:
-Leveraging these correlation insights allows for a dynamic approach to asset allocation. During different market conditions, you can adjust your portfolio to capitalize on potential gains while managing risk effectively. The negative correlations with PFE and positive correlations among tech and crypto assets offer opportunities for strategic adjustments based on market trends
+#### Leveraging these correlation insights allows for a dynamic approach to asset allocation. During different market conditions, you can adjust your portfolio to capitalize on potential gains while managing risk effectively. The negative correlations with PFE and positive correlations among tech and crypto assets offer opportunities for strategic adjustments based on market trends
 
+### Low and High for the last 365 days
 
+![max code](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/9804cd04-3fa0-4e2a-a076-e31c415643b2)
+
+![min code](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/a2ee7d9b-c3e1-49fa-93a1-bc11138b0dd8)
+
+### Summarized Findings with Lows and Highs for the last 365 days:
+
+#### The fact that Bitcoin (BTC), Coinbase (COIN), and CrowdStrike (CRWD) all hit their all-time highs within just four months is pretty interesting. What caught my eye is that CRWD and BTC reached their peak values on almost the same day, suggesting some kind of synchronized movement in the market between these tech stocks and the cryptocurrency. It's like they're dancing to the same tune. On the flip side, Pfizer (PFE) hit its all-time high in 2022, right when Covid was still a big deal. This seems to indicate a potential connection between PFE's performance and the ongoing pandemic, which is something worth digging into.
+
+#### Now, when it comes to the all-time lows in the last 365 days, it's a bit of a flip again. The tech stocks (COIN, CRWD) and Bitcoin seem to have a trend going in one direction, while Pfizer is moving in the opposite. This kind of info could be gold for managing risks in my portfolio. Maybe there's something in the air that affects tech stocks and Bitcoin differently than it does Pfizer. This insight gives me a lot to think about when it comes to aligning my portfolio and making decisions, especially considering the potential synchronized movements among tech stocks and Bitcoin. It's like reading the market's secret language and adjusting my portfolio strategy accordingly.
+
+### Regression Plots vs BTC
+
+![crwd vs bitcoin](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/e67fc74a-a5e0-49f1-bed5-811b5db0b020)
+
+![regression_plot_bitcoin_vs_crwd](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/5819c85a-d2bb-40b1-b816-a971c9f30aa5)
+
+![coin vs btc](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/3366191a-d5c5-47f9-b94d-62db953c3003)
+
+![regression_plot_bitcoin_vs_coin](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/95c4a8a6-e229-42c1-bb70-02c8cddaf997)
+
+![code regression pfe and btc](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/173114cd-ec9f-4b35-b48e-812f381bf06a)
+
+![regression_plot_bitcoin_vs_pfe](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/143a9f34-1a86-41d6-b30d-4c258f8acb10)
+
+### Insights on Regression Plots:
+
+#### Looking at the regression plot, it's quite apparent that there's an inverse relationship between Bitcoin and Pfizer (PFE). When Bitcoin prices go up, PFE's stock prices consistently head in the opposite direction—downward. This gives me a valuable insight into a potential hedging strategy. If Bitcoin is on the rise, considering how PFE might be affected allows me to navigate potential risks effectively.
+
+#### On the flip side, the positive trend between Coinbase (COIN) and Bitcoin is intriguing. As Bitcoin prices increase, COIN's stock prices tend to rise as well. This positive correlation suggests that these two assets move in sync. This is a great insight for portfolio optimization. If Bitcoin is a strong performer, COIN seems to follow suit, offering an opportunity to align my portfolio for potential gains.
+
+#### A similar positive trend is observed between CrowdStrike (CRWD) and Bitcoin. When Bitcoin prices rise, CRWD's stock prices also tend to go up. This alignment implies that the two assets move together, providing another layer of strategic insight for portfolio management. Understanding these correlations helps me tailor my investment strategy, considering potential movements in the cryptocurrency space and tech stocks. It's like having a roadmap that guides my portfolio decisions based on how different assets interact in the market.
 
 #### Hospital visits lineplot
 
 ![hospital visits line plot](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/5caaf565-1340-4214-a71e-06d6557e92e6)
 
 ![hospital_visits_full_line](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/dad2a9af-fe55-41e3-8647-2cf672112b0e)
-
 
 
 ## 5. Recommendations/Investment Strategy
