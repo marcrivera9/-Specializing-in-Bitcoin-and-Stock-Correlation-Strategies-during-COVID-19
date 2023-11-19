@@ -15,7 +15,8 @@
 
 # STEPS
 ## 1. Collecting data
-##### For the purpose of this project, I utilized Coingecko's free APIs to access historical cryptocurrency data for the last 365 days, starting from 11/03/23. Coingecko's API provides comprehensive historical data on various cryptocurrencies, including Bitcoin, enabling a thorough analysis of price movements over the specified timeframe.
+
+#### For the purpose of this project, I utilized Coingecko's free APIs to access historical cryptocurrency data for the last 365 days, starting from 11/03/23. Coingecko's API provides comprehensive historical data on various cryptocurrencies, including Bitcoin, enabling a thorough analysis of price movements over the specified timeframe.
 
 #### In parallel, I employed Alpha Vantage's API to gather real-time stock market data for the selected stocks (COIN, CRWD, PFE). Alpha Vantage's API offers a user-friendly interface and reliable access to live stock market information, ensuring that the analysis includes the most recent and up-to-date data.
 
