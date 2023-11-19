@@ -190,20 +190,7 @@
 
 ### Insights from Heatmap: 
 
-#### Diversification Potential:
-#### The negative correlations observed between Pfizer (PFE) and both Coinbase (COIN) and Bitcoin (BTC) suggest a potential diversification opportunity. When PFE prices decline, there tends to be an upward movement in COIN and BTC prices, providing a potential hedge against declines in traditional pharmaceutical stocks.
-
-#### Hedging Strategy:
-#### Given the robust negative correlations with PFE, incorporating COIN and BTC into your portfolio could act as a strategic hedge. This means that during periods when pharmaceutical stocks face challenges, the positive movement in cryptocurrency-related assets may offset potential losses.
-
-#### Tech and Crypto Synchronization:
-#### The positive correlations between COIN, CrowdStrike (CRWD), and BTC imply a certain synchronization in their movements. As COIN prices rise, there is a tendency for both CRWD and BTC prices to increase. This insight can guide your portfolio strategy, emphasizing the potential benefits of aligning investments in tech and crypto-related assets.
-
-#### Risk Management:
-#### Understanding the moderate positive correlation between CRWD and BTC provides insights into the synchronized movement of these assets. It's important to consider this correlation when managing risk in your portfolio. If there are shifts in the tech sector or cryptocurrency markets, a balanced approach to CRWD and BTC exposure could contribute to effective risk management.
-
-#### Dynamic Asset Allocation:
-#### Leveraging these correlation insights allows for a dynamic approach to asset allocation. During different market conditions, you can adjust your portfolio to capitalize on potential gains while managing risk effectively. The negative correlations with PFE and positive correlations among tech and crypto assets offer opportunities for strategic adjustments based on market trends
+#### The regression plots illuminate significant relationships between Bitcoin and key stocks: CrowdStrike (CRWD), Coinbase (COIN), and Pfizer (PFE). The positive correlation between CRWD and Bitcoin implies synchronized movements, suggesting that adjustments in CRWD investments during Bitcoin growth could be strategic for portfolio optimization. Similarly, the positive correlation observed between COIN and Bitcoin indicates parallel movements, guiding investors to align portfolios for potential gains during Bitcoin growth periods. On the flip side, the negative trend between Bitcoin and Pfizer (PFE) signals an inverse relationship, crucial for risk management. This insight prompts considerations of diversification or hedging strategies during phases of significant Bitcoin growth to mitigate potential impacts on healthcare stocks. Overall, these correlations provide a foundation for informed decision-making, emphasizing the interconnected nature of certain stocks with Bitcoin and the need for continuous monitoring and adaptation to evolving market dynamics.
 
 ### Low and High for the last 365 days
 
@@ -239,11 +226,55 @@
 
 #### A similar positive trend is observed between CrowdStrike (CRWD) and Bitcoin. When Bitcoin prices rise, CRWD's stock prices also tend to go up. This alignment implies that the two assets move together, providing another layer of strategic insight for portfolio management. Understanding these correlations helps me tailor my investment strategy, considering potential movements in the cryptocurrency space and tech stocks. It's like having a roadmap that guides my portfolio decisions based on how different assets interact in the market.
 
+### Hospital Visits VS Bitcoin 
+
 #### Hospital visits lineplot
+
+
 
 ![hospital visits line plot](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/5caaf565-1340-4214-a71e-06d6557e92e6)
 
 ![hospital_visits_full_line](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery/assets/148594670/dad2a9af-fe55-41e3-8647-2cf672112b0e)
 
+![line plot together bitcoin and visits](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Investment-Strategy/assets/148594670/8a506cd2-832d-4c1d-bd34-a9eecc4371ca)
+
+![lineplot_btc_and_covidvisits](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Investment-Strategy/assets/148594670/69cb474a-c950-4b61-b273-ffb1bc95980e)
+
+![reg plot and btc code](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Investment-Strategy/assets/148594670/38ed53e8-3603-4a23-b75d-8f82fd170f2f)
+
+![Regression_Plot_BTC_vs_Visits](https://github.com/marcrivera9/Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Investment-Strategy/assets/148594670/be3da5e2-307e-4a02-b04b-deb7e6bc9171)
+
+### Insights on Hospital Visits VS Bitcoin
+
+#### The analysis of the chart suggests a lack of a clear correlation between hospital visits and Bitcoin price trends, with no discernible uptrends or downtrends. However, a noteworthy observation is a subtle downtrend in hospital visits during October, coinciding with a sudden surge in Bitcoin prices. Additionally, a non-related finding is a substantial decrease in visits during the summer months.
+
+#### The significant insight emerges from the negative correlations found between Bitcoin and both Pfizer (PFE) and hospital visits related to COVID. When Bitcoin prices increased, PFE stock prices and visits to hospitals related to COVID decreased, indicating an inverse relationship between these assets. This is a valuable insight for portfolio management, suggesting that Bitcoin might have an impact on healthcare-related assets during certain market conditions.
 
 ## 5. Recommendations/Investment Strategy
+
+### Diversification with a Bitcoin Hedge:
+#### I'm thinking about diversifying my portfolio to include assets that might have an inverse relationship with Bitcoin. It seems like a good strategy to act as a sort of hedge, especially during times when Bitcoin gets a bit unpredictable.
+
+### Tech and Crypto Alignment:
+#### Considering the positive correlations between tech stocks like COIN and CRWD with Bitcoin, I might align my investments in these sectors. When the tech and crypto markets are doing well together, it could be a smart move to ride that wave.
+
+### Seasonal Adjustments:
+#### I've noticed a pattern with hospital visits dropping during the summer months. It's not directly linked to Bitcoin, but I'm thinking about adjusting my portfolio or focusing on certain sectors during specific times of the year based on these seasonal trends.
+
+### Healthcare Sensitivity:
+#### Knowing that healthcare stocks, especially Pfizer, are sensitive to Bitcoin movements, I'll be mindful of how Bitcoin is doing when managing my healthcare-related investments. It seems like understanding this sensitivity could help me make more informed decisions.
+
+### Strategic Risk Management:
+#### I'm considering a strategic risk management approach, especially when Bitcoin is on the rise. The negative correlations between Bitcoin and PFE, as well as hospital visits related to COVID, make me think about adjusting my portfolio during these periods to mitigate potential risks.
+
+### Dynamic Asset Allocation:
+#### I like the idea of a dynamic asset allocation strategy. Regularly reassessing and rebalancing my portfolio based on observed correlations and trends sounds like a practical approach for staying on top of changing market dynamics.
+
+### Periodic Portfolio Reviews:
+#### I've decided to make regular portfolio reviews a habit. It makes sense to regularly assess and adjust my portfolio based on new data and market trends. This way, I can keep my investment strategy optimized over time.
+
+### Tech Sector Monitoring:
+#### Given the correlations between tech stocks and Bitcoin, I'll be keeping a close eye on the tech sector, especially during periods of significant Bitcoin movements. It seems like staying vigilant in this area could help me make timely decisions.
+
+### Data-Driven Decision-Making:
+#### For me, it's all about data-driven decisions. Regularly analyzing market data, correlations, and trends is part of my approach. It gives me the confidence to make informed decisions and adapt my investment strategy based on what's happening in the market.
