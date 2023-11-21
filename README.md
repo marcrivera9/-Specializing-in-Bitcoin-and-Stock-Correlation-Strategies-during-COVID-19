@@ -5,7 +5,7 @@
 
 # OBJECTIVE
 
-#### The primary goal of this project is to enhance my personal investment portfolio by conducting a comprehensive analysis of the relationship between Bitcoin prices and selected stocks (COIN, CRWD, PFE) during the COVID-19 pandemic. The focus will be on identifying potential correlations and trends that could inform strategic investment decisions. By gaining insights into how these assets interacted in the context of a global health crisis, I aim to optimize my portfolio allocation and mitigate risks. The findings will serve as a foundation for informed decision-making, contributing to the overall improvement of my investment strategy. Additionally, this analysis may provide valuable insights for other investors interested in navigating similar market conditions."
+#### The primary goal of this project is to enhance my personal investment portfolio by conducting a comprehensive analysis of the relationship between Bitcoin prices and selected stocks (COIN, CRWD, PFE) during the COVID-19 pandemic. The focus will be on identifying potential correlations and trends that could inform strategic investment decisions. By gaining insights into how these assets interacted in the context of a global health crisis, I aim to optimize my portfolio allocation and mitigate risks. The findings will serve as a foundation for informed decision-making, contributing to the overall improvement of my investment strategy. Additionally, this analysis may provide valuable insights for other investors interested in navigating similar market conditions.
 
 # TOOLS
 * Python (Pandas,Matplotlib,Seaborn)
