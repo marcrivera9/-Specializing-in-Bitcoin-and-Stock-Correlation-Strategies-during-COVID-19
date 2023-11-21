@@ -1,4 +1,4 @@
-# Analyzing-Bitcoin-Prices-and-Stocks-COIN-CRWD-PFE-Amid-COVID-19-Negative-Correlation-Discovery
+# Specializing in Bitcoin and Stock Correlation Strategies during COVID-19
 # INTRODUCTION
 
 #### The following data analysis was performed by Marc Rivera(https://www.linkedin.com/in/marcrivera9/) for my personal investment strategy on Bitcoin, and was finalized on 11/04/2023.
